@@ -8,8 +8,8 @@
 
 // all data needed for bike
 #define PI 3.14159
-#define WIN_WIDTH 1200
-#define WIN_HEIGHT 1000
+#define WIN_WIDTH 1000
+#define WIN_HEIGHT 800
 #define CYCLE_LENGTH 3.3f
 #define ROD_RADIUS 0.05f
 #define NUM_SPOKES 20
@@ -818,8 +818,21 @@ void callFunctions(void)
    glutSetCursor(GLUT_CURSOR_CROSSHAIR);
 }
 
+void instructions(void)
+{
+   printf("Use keys below:\n");
+   printf("'+' to increase the speed\n");
+   printf("'-' to decrease the speed\n");
+   printf("'l' to rotate the handle left\n");
+   printf("'r' to rotate the handle right\n");
+   printf("'s' or 'S' to reset the scene\n");
+   printf("Arrow keys to move the camera\n");
+   printf("Mouse to move the scene\n");
+}
+
 int main(int argc, char *argv[])
 {
+   instructions();
    glutInit(&argc, argv);
    glutInitDisplayMode(GLUT_DOUBLE | GLUT_RGB);
    glutInitWindowPosition(100, 100);
