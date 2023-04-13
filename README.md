@@ -24,11 +24,16 @@ Launch Remote Desktop Server and Start Server in Ubuntu: <br/>
 <img src="https://i.imgur.com/1xoptj8.png" height="80%" width="80%" alt="Program Steps"/>
 <br />
 <br />
+Enter Credentials:  <br/>
+<img src="https://i.imgur.com/4Htnsiz.png" height="50%" width="50%" alt="Program Steps"/>
+<br />
+<br />
 Open Terminal and Enter in the Following commands:  <br/>
 <img src="https://i.imgur.com/xGFyej0.png" height="80%" width="80%" alt="Program Steps"/>
 <br />
 <br />
-
+ 
+ 
  - [Loom Video Demonstrating Program](https://www.loom.com/share/13927f3e8e5f4c00a84c1d4f4dc6c5a7)
 
 <!--
