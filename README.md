@@ -3,7 +3,7 @@
 <h1>Graphics Bike Project</h1>
 
 <h2>Description</h2>
-This project consists of a program that allows the user to operate a bike. Every object in the scene was created using C++.
+This project consists of a program that allows the user to operate a bike.
 <br />
 
 
