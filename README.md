@@ -32,6 +32,10 @@ Open Terminal and Enter in the Following commands:  <br/>
 <img src="https://i.imgur.com/xGFyej0.png" height="80%" width="80%" alt="Program Steps"/>
 <br />
 <br />
+Running Program:  <br/>
+<img src="https://i.imgur.com/gGAQPaM.png" height="80%" width="80%" alt="Program Steps"/>
+<br />
+<br />
  
  
  - [Loom Video Demonstrating Program](https://www.loom.com/share/13927f3e8e5f4c00a84c1d4f4dc6c5a7)
