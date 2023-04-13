@@ -21,7 +21,7 @@ This project consists of a program that allows the user to operate a bike. Every
 
 <p align="center">
 Launch Remote Desktop Server and Start Server in Ubuntu: <br/>
-<img src="https://i.imgur.com/whYFnkX.png" height="80%" width="80%" alt="Application Steps"/>
+<img src="https://i.imgur.com/1xoptj8.png" height="80%" width="80%" alt="Application Steps"/>
 <br />
 <br />
 Click on Menu Tab and List of Beaches:  <br/>
